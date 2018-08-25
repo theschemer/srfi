@@ -2,6 +2,8 @@
 
 SRFIs for Chez Scheme
 
+repackage by theschemer / Raven support team from https://github.com/ovenpasta/thunderchez
+
 There is an existing R6RS srfi project at:
 
 https://code.launchpad.net/~scheme-libraries-team/scheme-libraries/srfi
@@ -18,3 +20,4 @@ The surfage libraries are a port of the R6RS srfi libraries to have
 names such as:
 
     (surfage s1 lists)
+
