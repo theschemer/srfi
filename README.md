@@ -2,7 +2,7 @@
 
 SRFIs for Chez Scheme
 
-repackage by theschemer / Raven support team from https://github.com/ovenpasta/thunderchez
+Repackage by theschemer / Raven support team from https://github.com/ovenpasta/thunderchez
 
 There is an existing R6RS srfi project at:
 
