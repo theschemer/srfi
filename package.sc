@@ -8,5 +8,6 @@
 ("scripts" 
     ("repl" . "scheme")
     ("run" . "scheme --script"))
-("dependencies")
+("dependencies" 
+    ("irregex" . "0.9.6"))
 ("devDependencies"))
